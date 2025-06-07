@@ -1,0 +1,23 @@
+{
+  "name": "casinoheist-npcs",
+  "title": "Casino Heist – NPCs",
+  "description": "A collection of unique NPCs for the Casino Heist campaign in Foundry VTT. Includes staff, constructs, adversaries, and unique figures vital to the Fifth Table storyline.",
+  "version": "1.0.0",
+  "author": "Serelith Varn",
+  "systems": ["dnd5e"],
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "url": "https://github.com/Serelith-Varn/foundry-casino-heist-npcs",
+  "manifest": "https://raw.githubusercontent.com/Serelith-Varn/foundry-casino-heist-npcs/main/module.json",
+  "download": "https://github.com/Serelith-Varn/foundry-casino-heist-npcs/archive/refs/heads/main.zip",
+  "packs": [
+    {
+      "name": "casinoheist-npcs",
+      "label": "Casino Heist – NPCs",
+      "system": "dnd5e",
+      "path": "packs/npcs.db",
+      "type": "Actor",
+      "module": "casinoheist-npcs"
+    }
+  ]
+}
