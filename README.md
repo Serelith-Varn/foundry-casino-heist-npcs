@@ -18,7 +18,7 @@ This module contains a compendium of fully statted NPCs for the **Casino Heist**
 
 ### Option A: Manual
 
-1. Download this repository as a `.zip`
+1. Download [manifest](https://raw.githubusercontent.com/Serelith-Varn/foundry-casino-heist-npcs/main/module.json)
 2. Extract the folder to your Foundry VTT data directory:
    ```
    FoundryVTT/Data/modules/
