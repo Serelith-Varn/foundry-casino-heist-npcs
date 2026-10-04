@@ -3,7 +3,7 @@
   "name": "casinoheist-npcs",
   "title": "Casino Heist – NPCs",
   "description": "A collection of NPCs for the Casino Heist campaign. Includes named staff, constructs, and adversaries.",
-  "version": "1.0.0",
+  "version": "1.0.1,
   "author": "Serelith-Varn",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "14",
