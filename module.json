@@ -2,20 +2,13 @@
   "id": "casinoheist-npcs",
   "title": "Casino Heist – NPCs",
   "description": "A collection of NPCs for the Casino Heist campaign. Includes named staff, constructs, and adversaries.",
-  "version": "1.0.2",
+ "version": "1.0.0",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
     "verified": "14"
   },
-  "relationships": {
-    "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system"
-      }
-    ]
-  },
+  "systems": ["dnd5e"],
   "url": "https://github.com/Serelith-Varn/foundry-casino-heist-npcs",
   "manifest": "https://raw.githubusercontent.com/Serelith-Varn/foundry-casino-heist-npcs/main/module.json",
   "download": "https://github.com/Serelith-Varn/foundry-casino-heist-npcs/archive/refs/heads/main.zip",
